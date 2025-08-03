@@ -24,6 +24,7 @@ header {
   color: #0a0a0a;
   font-size: 50px;
   cursor: pointer;
+  display: flex;
 }
 nav {
   display: flex;
