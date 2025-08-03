@@ -1,13 +1,11 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 .login {
   padding: 60px 20px;
   background-color: #f9f9f9;
-  
 }
 
 .login h2 {
